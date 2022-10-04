@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa",
+      "type": "com.akturkpasaj.User.Management.System.config.RsaKeyProperties",
+      "sourceType": "com.akturkpasaj.User.Management.System.config.RsaKeyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "com.akturkpasaj.User.Management.System.config.RsaKeyProperties"
+    },
+    {
+      "name": "rsa.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "com.akturkpasaj.User.Management.System.config.RsaKeyProperties"
+    }
+  ],
+  "hints": []
+}
